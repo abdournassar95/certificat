@@ -9,7 +9,21 @@ function fetchCertificate() {
 
     let certificateData = {
 
-        "00000": {
+        "1111": {
+
+            "name": "علي محمد عبد القادر ",
+
+            "dob": "27-05-1975",
+
+            "nationality": "SYRIA",
+
+            "issueDate": "2024-01-15",
+
+            "expiryDate": "2025-01-15",
+
+            "course": "GMDSS"
+         }; 
+ "00000": {
 
             "name": "عبده رجب احمد نصار ",
 
@@ -22,7 +36,6 @@ function fetchCertificate() {
             "expiryDate": "2025-01-15",
 
             "course": "طباخ علي السفن التجارية"
-
         }
             
     };
