@@ -20,13 +20,13 @@ const students = {
 
     },
 
-    "67890": {
+    "11111": {
 
-        name: "Jane Smith",
+        name: "ALI UBDULKADER",
 
-        dob: "1998-03-22",
+        dob: "1975-05-26",
 
-        nationality: "American",
+        nationality: "SYRIA",
 
         course: "Navigation Training",
 
@@ -34,7 +34,7 @@ const students = {
 
         expiry_date: "2025-09-10",
 
-        image: "jane-smith.jpg"
+        image: "1.jpg"
 
     }
 
