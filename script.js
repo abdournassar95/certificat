@@ -25,21 +25,6 @@ function fetchCertificate() {
 
         }
             
- "00000": {
-
-            "name": "عبده رجب احمد نصار",
-
-            "dob": "05-05-1985",
-
-            "nationality": "مصري",
-
-            "issueDate": "2024-01-15",
-
-            "expiryDate": "2025-01-15",
-
-            "course": "طباخ علي السفينة"
-
-        }
     };
 
     
