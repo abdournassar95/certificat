@@ -1,0 +1,147 @@
+/* إعداد الخطوط والألوان الأساسية */
+
+body {
+
+    font-family: 'Arial', sans-serif;
+
+    background-color: #f4f4f4;
+
+    text-align: center;
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+/* الهيدر (الشعار والعلم) */
+
+header {
+
+    background: #003366;
+
+    padding: 20px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 20px;
+
+}
+
+header img {
+
+    height: 60px;
+
+}
+
+/* الحاوية الرئيسية */
+
+main {
+
+    background: white;
+
+    max-width: 400px;
+
+    margin: 50px auto;
+
+    padding: 20px;
+
+    border-radius: 8px;
+
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+/* عنوان الصفحة */
+
+h2 {
+
+    color: #003366;
+
+}
+
+/* حقل الإدخال وزر البحث */
+
+input {
+
+    width: 90%;
+
+    padding: 10px;
+
+    margin-top: 10px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 5px;
+
+    font-size: 16px;
+
+}
+
+button {
+
+    width: 100%;
+
+    padding: 10px;
+
+    margin-top: 15px;
+
+    border: none;
+
+    border-radius: 5px;
+
+    background: #003366;
+
+    color: white;
+
+    font-size: 18px;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+
+}
+
+button:hover {
+
+    background: #002244;
+
+}
+
+/* مظهر البيانات */
+
+#result {
+
+    margin-top: 20px;
+
+    text-align: left;
+
+}
+
+#result p {
+
+    font-size: 16px;
+
+    color: #333;
+
+    padding: 5px 0;
+
+}
+
+#result img {
+
+    display: block;
+
+    margin: 15px auto;
+
+    width: 100px;
+
+    border-radius: 50%;
+
+    border: 3px solid #003366;
+
+}
