@@ -10,7 +10,7 @@ const students = {
 
         nationality: "EGYPT",
 
-        course: "طباخ علي السفنينة",
+        course: "طباخ علي السفينة",
 
         issue_date: "2024-01-01",
 
