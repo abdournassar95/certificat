@@ -22,7 +22,7 @@ const students = {
 
     "11111": {
 
-        name: "ALI UBDULKADER",
+        name: "ALI ABDULKADER",
 
         dob: "1975-05-26",
 
