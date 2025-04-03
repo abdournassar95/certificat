@@ -9,23 +9,7 @@ function fetchCertificate() {
 
     let certificateData = {
 
-        "1111": {
-
-            "name": "HASNAA ABDOU NASSAR",
-
-            "dob": "24-12-2009",
-
-            "nationality": "EGYPT",
-
-            "issueDate": "2024-01-15",
-
-            "expiryDate": "2025-01-15",
-
-            "course": "طباخة علي السف التجارية"
-
-        }
-            
-    };
+      
 
      let certificateData = {
 
