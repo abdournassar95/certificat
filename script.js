@@ -11,11 +11,11 @@ function fetchCertificate() {
 
         "123456": {
 
-            "name": "John Doe",
+            "name": "ABDOU RAGAB AHMED NASSAR",
 
-            "dob": "1990-05-10",
+            "dob": "05-05-1985",
 
-            "nationality": "Panamanian",
+            "nationality": "EGYPT",
 
             "issueDate": "2024-01-15",
 
@@ -24,7 +24,22 @@ function fetchCertificate() {
             "course": "Marine Safety Training"
 
         }
+            
+ "00000": {
 
+            "name": "عبده رجب احمد نصار",
+
+            "dob": "05-05-1985",
+
+            "nationality": "مصري",
+
+            "issueDate": "2024-01-15",
+
+            "expiryDate": "2025-01-15",
+
+            "course": "طباخ علي السفينة"
+
+        }
     };
 
     
