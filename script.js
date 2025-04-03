@@ -25,9 +25,13 @@ function fetchCertificate() {
 
         }
             
-          "1111": {
+    };
 
-            "name": "عبده رجب نصار ",
+     let certificateData = {
+
+        "00000": {
+
+            "name": "عبده رجب احمد نصار ",
 
             "dob": "24-12-2009",
 
@@ -39,10 +43,10 @@ function fetchCertificate() {
 
             "course": "طباخ علي السفن التجارية"
 
-        }  
+        }
+            
     };
 
-    
 
     if (certificateData[studentCode]) {
 
