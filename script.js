@@ -10,11 +10,11 @@ const students = {
 
         nationality: "EGYPT",
 
-        course: "Marine Safety",
+        course: "طباخ علي السفنينة",
 
         issue_date: "2024-01-01",
 
-        expiry_date: "2026-01-01",
+        expiry_date: "2029-01-01",
 
         image: "A.jpg"
 
