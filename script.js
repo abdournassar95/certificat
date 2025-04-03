@@ -9,11 +9,11 @@ function fetchCertificate() {
 
     let certificateData = {
 
-        "123456": {
+        "00000": {
 
-            "name": "ABDOU RAGAB AHMED NASSAR",
+            "name": "HASNAA ABDOU NASSAR",
 
-            "dob": "05-05-1985",
+            "dob": "24-12-2009",
 
             "nationality": "EGYPT",
 
@@ -21,7 +21,7 @@ function fetchCertificate() {
 
             "expiryDate": "2025-01-15",
 
-            "course": "Marine Safety Training"
+            "course": "طباخة علي السف التجارية"
 
         }
             
