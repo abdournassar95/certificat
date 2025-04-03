@@ -9,10 +9,6 @@ function fetchCertificate() {
 
     let certificateData = {
 
-      
-
-     let certificateData = {
-
         "00000": {
 
             "name": "عبده رجب احمد نصار ",
