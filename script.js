@@ -22,7 +22,7 @@ function fetchCertificate() {
             "expiryDate": "2025-01-15",
 
             "course": "GMDSS"
-         }; 
+         },
  "00000": {
 
             "name": "عبده رجب احمد نصار ",
