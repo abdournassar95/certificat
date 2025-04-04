@@ -2,7 +2,25 @@
 
 const students = {
 
-    "00000": {
+    "55688311": {
+
+        name: "IBRAHIM HAGGAG IBRAHIM ELFEKY",
+
+        dob: "16-09-1986",
+
+        nationality: "EGYPT",
+
+        course: "SECOND ENGINEER OFFICER",
+
+        issue_date: "04-04-2025",
+
+        expiry_date: "03-07-2025",
+
+        image: "IP.jpg"
+
+    },
+    
+ "00000": {
 
         name: "عبده رجب نصار",
 
@@ -19,7 +37,6 @@ const students = {
         image: "A.jpg"
 
     },
-
     "11111": {
 
         name: "ALI ABDULKADER",
