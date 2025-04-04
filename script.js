@@ -10,7 +10,7 @@ const students = {
 
         nationality: "EGYPT",
 
-        course: "SECOND ENGINEER OFFICER",
+        course: "CERTIFICATE ENDORSEMENT",
 
         issue_date: "04-04-2025",
 
