@@ -28,7 +28,7 @@ const students = {
 
         nationality: "SYRIA",
 
-        course: "Navigation Training",
+        course: "GMDSS",
 
         issue_date: "2023-09-10",
 
