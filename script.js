@@ -22,7 +22,7 @@ const students = {
     
  "00000": {
 
-        name: "عبده رجب نصار",
+        name: "OSAMA MUSTAFA REZK",
 
         dob: "1985-08-05",
 
