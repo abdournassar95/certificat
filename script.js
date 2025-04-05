@@ -10,7 +10,7 @@ const students = {
 
         nationality: "EGYPT",
 
-        course: "CERTIFICATE ENDORSEMENT",
+        course: "COC",
 
         issue_date: "04-04-2025",
 
@@ -20,21 +20,21 @@ const students = {
 
     },
     
- "00000": {
+ "502183021": {
 
-        name: "ABDOU RAGAB AHMED NASSAR",
+        name: "ALI ABDULKADER",
 
-        dob: "1985-08-05",
+        dob: "26-05-1975",
 
-        nationality: "EGYPT",
+        nationality: "SYRIA",
 
-        course: "طباخ علي السفينة",
+        course: "COC",
 
-        issue_date: "2024-01-01",
+        issue_date: "14-04-2025",
 
-        expiry_date: "2029-01-01",
+        expiry_date: "13-07-2025",
 
-        image: "A.jpg"
+        image: "ALI.jpg"
 
     },
 "00000": {
