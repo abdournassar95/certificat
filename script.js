@@ -37,6 +37,114 @@ const students = {
         image: "A.jpg"
 
     },
+"00000": {
+
+        name: "ABDOU RAGAB AHMED NASSAR",
+
+        dob: "1985-08-05",
+
+        nationality: "EGYPT",
+
+        course: "طباخ علي السفينة",
+
+        issue_date: "2024-01-01",
+
+        expiry_date: "2029-01-01",
+
+        image: "A.jpg"
+
+    },
+
+    "00000": {
+
+        name: "ABDOU RAGAB AHMED NASSAR",
+
+        dob: "1985-08-05",
+
+        nationality: "EGYPT",
+
+        course: "طباخ علي السفينة",
+
+        issue_date: "2024-01-01",
+
+        expiry_date: "2029-01-01",
+
+        image: "A.jpg"
+
+    },
+    
+"00000": {
+
+        name: "ABDOU RAGAB AHMED NASSAR",
+
+        dob: "1985-08-05",
+
+        nationality: "EGYPT",
+
+        course: "طباخ علي السفينة",
+
+        issue_date: "2024-01-01",
+
+        expiry_date: "2029-01-01",
+
+        image: "A.jpg"
+
+    },
+    
+"00000": {
+
+        name: "ABDOU RAGAB AHMED NASSAR",
+
+        dob: "1985-08-05",
+
+        nationality: "EGYPT",
+
+        course: "طباخ علي السفينة",
+
+        issue_date: "2024-01-01",
+
+        expiry_date: "2029-01-01",
+
+        image: "A.jpg"
+
+    },
+    
+    "00000": {
+
+        name: "ABDOU RAGAB AHMED NASSAR",
+
+        dob: "1985-08-05",
+
+        nationality: "EGYPT",
+
+        course: "طباخ علي السفينة",
+
+        issue_date: "2024-01-01",
+
+        expiry_date: "2029-01-01",
+
+        image: "A.jpg"
+
+    },
+    
+    "00000": {
+
+        name: "ABDOU RAGAB AHMED NASSAR",
+
+        dob: "1985-08-05",
+
+        nationality: "EGYPT",
+
+        course: "طباخ علي السفينة",
+
+        issue_date: "2024-01-01",
+
+        expiry_date: "2029-01-01",
+
+        image: "A.jpg"
+
+    },
+    
     "11111": {
 
         name: "ALI ABDULKADER",
