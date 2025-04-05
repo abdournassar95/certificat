@@ -37,6 +37,24 @@ const students = {
         image: "ALI.jpg"
 
     },
+    "502183022": {
+
+        name: "ALI ABDULKADER",
+
+        dob: "26-05-1975",
+
+        nationality: "SYRIA",
+
+        course: "GMDSS",
+
+        issue_date: "14-04-2025",
+
+        expiry_date: "13-07-2025",
+
+        image: "ALI.jpg"
+
+    },
+    
 "00000": {
 
         name: "ABDOU RAGAB AHMED NASSAR",
