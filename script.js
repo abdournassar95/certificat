@@ -1,32 +1,32 @@
 
 const sampleData = {
-      "123456": {
+      "502183021": {
         name: "ALI ABDULKADER",
         nationality: "SYRIA",
         rank: "Captain",
         photo: "ali.jpg",
         certificates: [
-          { name: "COC", issue: "2023-01-15", expiry: "2028-01-15" }
+          { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }
         ]
       },
       
-     "123457": {
+     "502183022": {
         name: "ALI ABDULKADER",
         nationality: "SYRIA",
         rank: "Captain",
         photo: "ali.jpg",
         certificates: [
-          { name: "GMDSS", issue: "2023-01-15", expiry: "2028-01-15" }
+          { name: "GMDSS", issue: "14-04-2025", expiry: "13-07-2025" }
         ]
       },
       
-      "234567": {
-        name: "Jane Smith",
-        nationality: "Panamanian",
-        rank: "Chief Officer",
-        photo: "https://via.placeholder.com/100",
+      "5568831": {
+        name: "IBRAHIM HAGGAG ELFEKEY",
+        nationality: "EGYPT",
+        rank: "2ND ENGINER",
+        photo: "IP.JPG",
         certificates: [
-          { name: "Bridge Resource Management", issue: "2022-06-01", expiry: "2027-06-01" }
+          { name: "COC", issue: "04-04-2025", expiry: 03-07-2025" }
         ]
       },
       "345678": {
