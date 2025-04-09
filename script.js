@@ -1,10 +1,22 @@
 
 const sampleData = {
   "123456": {
-    name: "ABDOU RAGAB NASSAR",
-    nationality: "EGYPT",
+    name: "ALI ABDULKADER",
+    nationality: "SYRIA",
     rank: "COOK",
-    photo: "A.JPG",
+    photo: "ALI.JPG",
+    certificates: [
+      { name: "Basic Safety Training", issue: "2023-01-15", expiry: "2028-01-15" },
+
+    ]
+  }
+},
+  
+"123457": {
+    name: "ALI ABDULKADER",
+    nationality: "SYRIA",
+    rank: "COC",
+    photo: "ALI.JPG",
     certificates: [
       { name: "Basic Safety Training", issue: "2023-01-15", expiry: "2028-01-15" },
 
