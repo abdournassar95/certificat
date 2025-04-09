@@ -1,14 +1,25 @@
 
 const sampleData = {
       "123456": {
-        name: "John Doe",
-        nationality: "Panamanian",
+        name: "ALI ABDULKADER",
+        nationality: "SYRIA",
         rank: "Captain",
-        photo: "https://via.placeholder.com/100",
+        photo: "ali.jpg",
         certificates: [
-          { name: "Basic Safety Training", issue: "2023-01-15", expiry: "2028-01-15" }
+          { name: "COC", issue: "2023-01-15", expiry: "2028-01-15" }
         ]
       },
+      
+     "123457": {
+        name: "ALI ABDULKADER",
+        nationality: "SYRIA",
+        rank: "Captain",
+        photo: "ali.jpg",
+        certificates: [
+          { name: "GMDSS", issue: "2023-01-15", expiry: "2028-01-15" }
+        ]
+      },
+      
       "234567": {
         name: "Jane Smith",
         nationality: "Panamanian",
