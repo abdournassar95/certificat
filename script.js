@@ -18,6 +18,15 @@ const sampleData = {
       { name: "GMDSS", issue: "14-04-2025", expiry: "13-07-2025" }
     ]
   },
+  "511545184": {
+    name: "MOHAMAD BADRAH",
+    nationality: "SYRIA",
+    rank: "CHIEF ENGINEER",
+    photo: "CH ENG.JPG",
+    certificates: [
+      { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }
+    ]
+  },
   "55688311": {
     name: "IBRAHIM HAGGAG ELFEKEY",
     nationality: "EGYPT",
