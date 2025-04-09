@@ -1,14 +1,6 @@
 
 const sampleData = {
-  "502183021": {
-    name: "ALI ABDULKADER",
-    nationality: "SYRIA",
-    rank: "MASTER",
-    photo: "Ali.JPG",
-    certificates: [
-      { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }
-    ]
-  },
+  "502183021": { name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "502183022": {
     name: "ALI ABDULKADER",
     nationality: "SYRIA",
