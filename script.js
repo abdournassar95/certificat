@@ -27,22 +27,22 @@ const sampleData = {
       { name: "COC", issue: "04-04-2025", expiry: "03-07-2025" }
     ]
   },
-  "456789": {
-    name: "KHALED MOSTAFA FARAG",
+  "574572957": {
+    name: "MAHMOUD ALY",
     nationality: "EGYPT",
-    rank: "OILER",
-    photo: "Khaled.JPG",
+    rank: "2ND OFFICER",
+    photo: "2ND OFF.JPG",
     certificates: [
-      { name: "Personal Survival Techniques", issue: "2020-07-30", expiry: "2025-07-30" }
+      { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }
     ]
   },
-  "567890": {
-    name: "SAID IBRAHIM ZAKI",
-    nationality: "EGYPT",
-    rank: "MASTER",
-    photo: "Said.JPG",
+  "501303875": {
+    name: "MOHAMAD JAMAL ABDO",
+    nationality: "SYRIA",
+    rank: "CHIEF MATE",
+    photo: "CH OFF.JPG",
     certificates: [
-      { name: "Security Awareness Training", issue: "2023-03-05", expiry: "2028-03-05" }
+      { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }
     ]
   }
 };
