@@ -4,7 +4,7 @@ const sampleData = {
     name: "ABDOU RAGAB NASSAR",
     nationality: "EGYPT",
     rank: "COOK",
-    photo: "A.JPG",
+    photo: "Ali.JPG",
     certificates: [
       { name: "Basic Safety Training", issue: "2023-01-15", expiry: "2028-01-15" },
 
