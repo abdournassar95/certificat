@@ -1,30 +1,30 @@
 
 const sampleData = {
-  "123456": {
-    name: "ABDOU RAGAB NASSAR",
-    nationality: "EGYPT",
-    rank: "COOK",
+  "502183021": {
+    name: "ALI ABDULKADER",
+    nationality: "SYRIA",
+    rank: "MASTER",
     photo: "Ali.JPG",
     certificates: [
-      { name: "Basic Safety Training", issue: "2023-01-15", expiry: "2028-01-15" }
+      { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }
     ]
   },
-  "234567": {
-    name: "MOHAMED AHMED SALEH",
-    nationality: "EGYPT",
-    rank: "ABLE SEAMAN",
-    photo: "Mohamed.JPG",
+  "502183021": {
+    name: "ALI ABDULKADER",
+    nationality: "SYRIA",
+    rank: "MASTER",
+    photo: "Ali.JPG",
     certificates: [
-      { name: "Advanced Fire Fighting", issue: "2022-10-10", expiry: "2027-10-10" }
+      { name: "GMDSS", issue: "14-04-2025", expiry: "13-07-2025" }
     ]
   },
-  "345678": {
-    name: "AHMED HASSAN ALI",
+  "55688311": {
+    name: "IBRAHIM HAGGAG ELFEKEY",
     nationality: "EGYPT",
-    rank: "CHIEF ENGINEER",
-    photo: "Ahmed.JPG",
+    rank: "2ND ENGINEER",
+    photo: "IP.JPG",
     certificates: [
-      { name: "Medical First Aid", issue: "2021-05-20", expiry: "2026-05-20" }
+      { name: "COC", issue: "04-04-2025", expiry: "03-07-2025" }
     ]
   },
   "456789": {
