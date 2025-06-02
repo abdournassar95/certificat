@@ -11,6 +11,7 @@ const sampleData = {
   "500537711": {name: "HUSSAM HASSAN BARBAR",nationality: "SYRIA",rank: "CHIEF ENGINEER",photo: "HOSAM.JPG",certificates: [{ name: "COC", issue: "02-05-2025", expiry: "01-08-2025" }] },
   "501019867": {name: "KHEDER FAHEM ALALI",nationality: "SYRIA",rank: "2ND OFFICER",photo: "KHEDR.JPG",certificates: [{ name: "COC", issue: "02-05-2025", expiry: "01-08-2025" }] },
   "55688311": {name: "IBRAHIM HAGGAG ELFEKEY",nationality: "EGYPT",rank: "2ND ENGINEER",photo: "IP.JPG",certificates: [{ name: "COC", issue: "04-04-2025", expiry: "03-07-2025" } ] },
+  "511672092": {name: "SAMER MANSOUR",nationality: "SYRIA",rank: "THIRD ENGINEER OFFICER",photo: "SAMYR.JPG",certificates: [{ name: "COC", issue: "02-05-2025", expiry: "01-08-2025" } ] },
   "574572957": {name: "MAHMOUD ALY",nationality: "EGYPT",rank: "2ND OFFICER",photo: "2ND OFF.JPG",certificates: [{ name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "501303875": {name: "MOHAMAD JAMAL ABDO",nationality: "SYRIA",rank: "CHIEF MATE",photo: "CH OFF.JPG",certificates: [{ name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }]}};
 
