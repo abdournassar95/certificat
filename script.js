@@ -1,6 +1,7 @@
 
 const sampleData = {
   "502183021": { name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
+  "500337500": { name: "MOHAMED ALI ELSAYD ALI",nationality: "EGYPT", rank: "MASTER",photo: "MOAli.JPG",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2030" } ]},
   "502183021": { name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "5013038501": { name: "AHMED MOHAMED AMIN",nationality: "EGYPT", rank: "CHIEF MATE",photo: "AMIN.JPG",certificates: [ { name: "COC", issue: "22-05-2025", expiry: "21-08-2025" } ]},
   "5013038503": { name: "AHMED MOHAMED AMIN",nationality: "EGYPT", rank: "CHIEF MATE",photo: "AMIN.JPG",certificates: [ { name: "GMDSS", issue: "22-05-2025", expiry: "21-08-2025" } ]},
