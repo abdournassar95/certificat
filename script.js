@@ -9,7 +9,7 @@ const sampleData = {
   "500337503": {name: "WAEL ANWAR JAOHAR",nationality: "SYRIA",rank: "MASTER", photo: "M O.JPG",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "501128714": {name: "WAEL ANWAR JAOHAR",nationality: "SYRIA",rank: "MASTER", photo: "M O.JPG",certificates: [ { name: "GMDSS", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "511545184": {name: "MOHAMAD BADRAH",nationality: "SYRIA",rank: "CHIEF ENGINEER",photo: "CH ENG.JPG",certificates: [{ name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }] },
-  "552765897": {name: "AHMAD ALI KHATIB",nationality: "SYRIA",rank: "CHIEF ENGINEER",photo: "KHATB.JPG",certificates: [{ name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }] },
+  "552765897": {name: "AHMAD ALI KHATIB",nationality: "SYRIA",rank: "CHIEF ENGINEER",photo: "KHATB.JPG",certificates: [{ name: "COC", issue: "11-06-2025", expiry: "10-09-2025" }] },
   "500537711": {name: "HUSSAM HASSAN BARBAR",nationality: "SYRIA",rank: "CHIEF ENGINEER",photo: "HOSAM.JPG",certificates: [{ name: "COC", issue: "02-05-2025", expiry: "01-08-2025" }] },
   "501019867": {name: "KHEDER FAHEM ALALI",nationality: "SYRIA",rank: "2ND OFFICER",photo: "KHEDR.JPG",certificates: [{ name: "COC", issue: "11-06-2025", expiry: "10-09-2025" }] },
   "55688311": {name: "IBRAHIM HAGGAG ELFEKEY",nationality: "EGYPT",rank: "2ND ENGINEER",photo: "IP.JPG",certificates: [{ name: "COC", issue: "04-04-2025", expiry: "03-07-2025" } ] },
