@@ -3,7 +3,7 @@ const sampleData = {
   "112233":{"name":"ABDOU RAGAB NASSAR","nationality":"EGYPT","rank":"COOK","photo":"AB.JPG","certificates":[{"name":"COOK","issue":"11-09-2025","expiry":"10-12-2025"}]},
   "502183021": { name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "500337500": { name: "MOHAMED ALI ELSAYD ALI",nationality: "EGYPT", rank: "MASTER",photo: "MOAli.JPG",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2030" } ]},
-  "502183021": { name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
+  "502183022": { name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG",certificates: [ { name: "GMDSS", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "5013038501": { name: "AHMED MOHAMED AMIN",nationality: "EGYPT", rank: "CHIEF MATE",photo: "AMIN.JPG",certificates: [ { name: "COC", issue: "22-05-2025", expiry: "21-08-2025" } ]},
   "5013038503": { name: "AHMED MOHAMED AMIN",nationality: "EGYPT", rank: "CHIEF MATE",photo: "AMIN.JPG",certificates: [ { name: "GMDSS", issue: "22-05-2025", expiry: "21-08-2025" } ]},
   "55688711": { name: "ELSAYED SHAWKAT ELSAYED",nationality: "EGYPT", rank: "2ND ENGINEER",photo: "SAYED.JPG",certificates: [ { name: "COC", issue:  "22-05-2025", expiry: "21-08-2025" } ]},
