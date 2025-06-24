@@ -18,7 +18,7 @@ const sampleData = {
   "574572957": {name: "MAHMOUD ALY",nationality: "EGYPT",rank: "2ND OFFICER",photo: "2ND OFF.JPG",certificates: [{ name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "502102121": {name: "GHADER MAZHAR KASHOUR",nationality: "SYRIA",rank: "CHIEF MATE",photo: "GHADER.JPG",certificates: [{ name: "COC", issue: "11-06-2025", expiry: "10-09-2025" } ] },
   "502102122": {name: "GHADER MAZHAR KASHOUR",nationality: "SYRIA",rank: "CHIEF MATE",photo: "GHADER.JPG",certificates: [{ name: "GMDSS", issue: "11-06-2025", expiry: "10-09-2025" } ] },
-  "1234567": { "name": "عبده رجب نصار", "nationality": "مصر", "rank": "طباخ", "certificates": [{ "name": "طباخ علي السفينة", "issue": "2025-02-03", "expiry": "2030-01-01" }] },
+  "1234567": { "name": "MOHAMED ABDOU NASSAR", "nationality": "EGYPT", "rank": "MASTER", "photo": "MAN.JPG", "shipName": "SCOTLAND BAY", "certificates": [{ "name": "GMDSS", "issue": "01-06-2025", "expiry": "30-06-2025" }] },
   "501303875": {name: "MOHAMAD JAMAL ABDO",nationality: "SYRIA",rank: "CHIEF MATE",photo: "CH OFF.JPG",certificates: [{ name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }]}};
 
 
