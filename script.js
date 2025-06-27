@@ -19,6 +19,7 @@ const sampleData = {
   "502102121": {name: "GHADER MAZHAR KASHOUR",nationality: "SYRIA",rank: "CHIEF MATE",photo: "GHADER.JPG",certificates: [{ name: "COC", issue: "11-06-2025", expiry: "10-09-2025" } ] },
   "502102122": {name: "GHADER MAZHAR KASHOUR",nationality: "SYRIA",rank: "CHIEF MATE",photo: "GHADER.JPG",certificates: [{ name: "GMDSS", issue: "11-06-2025", expiry: "10-09-2025" } ] },
   "501303875": {name: "MOHAMAD JAMAL ABDO",nationality: "SYRIA",rank: "CHIEF MATE",photo: "CH OFF.JPG",certificates: [{ name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }]},
+    "132426": { "name": "اسامة مصطفي سيرفيور", "nationality": "EGYPT", "rank": "سيرفيور", "photo": "OSAMA.JPG", "shipName": "SCOTLAND BAY", "certificates": [{ "name": "GIS", "issue": "01-06-2025", "expiry": "30-08-2025" }] },
 
 };
 
