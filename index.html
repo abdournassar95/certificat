@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seafarer Database Search</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fc;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .card-search {
+      max-width: 700px;
+      margin: 50px auto;
+      text-align: center;
+    }
+    .card-profile {
+      max-width: 800px;
+      margin: 30px auto;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .profile-header {
+      background-color: #0056b3;
+      color: white;
+      padding: 30px 20px;
+      border-top-left-radius: .5rem;
+      border-top-right-radius: .5rem;
+    }
+    .profile-header .row {
+      align-items: center;
+    }
+    .profile-header img {
+      width: 140px;
+      height: 140px;
+      object-fit: cover;
+      border-radius: 0.5rem;
+      border: 4px solid white;
+    }
+    .status-active {
+      background-color: #d1e7dd;
+      color: #0f5132;
+      padding: 2px 10px;
+      border-radius: 15px;
+      font-size: 0.85rem;
+      display: inline-block;
+    }
+    .badge-valid {
+      background-color: #d1e7dd;
+      color: #0f5132;
+    }
+    .badge-expired {
+      background-color: #f8d7da;
+      color: #842029;
+    }
+    .badge-warning {
+      background-color: #fff3cd;
+      color: #856404;
+    }
+    .footer-note {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #6c757d;
+      margin-top: 40px;
+    }
+    .info-block p {
+      margin: 0.3rem 0;
+      font-size: 1rem;
+    }
+    .label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      color: #cfd6e2;
+      margin-bottom: 0;
+    }
+    .value {
+      font-size: 1.1rem;
+      font-weight: 500;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container text-center my-4">
+  <img src="Logo.png" alt="Panama Logo" style="max-height: 100px;">
+  <h2 class="fw-bold mt-2" style="color:#002244; font-family: 'Arial Black', 'Segoe UI', sans-serif; letter-spacing: 1px; font-size: 2.2rem;">PANAMA MARITIME AUTHORITY</h2>
+  <h4 class="fw-semibold" style="color:#0056b3; font-family: 'Arial Black', 'Segoe UI', sans-serif; font-size: 1.35rem;">AUTORIDAD MARÍTIMA DE PANAMÁ</h4>
+</div>
+
+<div class="card card-search shadow-sm p-4">
+  <div class="text-center mb-3">
+    <i class="bi bi-search" style="font-size: 2rem;"></i>
+    <h3 class="fw-bold">VERIFY</h3>
+    <p class="text-muted">Enter a Marine ID to verify seafarer credentials and certificates</p>
+  </div>
+  <div class="mb-3">
+    <input type="text" id="seafarerCode" class="form-control" placeholder="Marine ID">
+  </div>
+  <div class="d-flex justify-content-center gap-2">
+    <button class="btn btn-primary" onclick="searchSeafarer()">Search Seafarer</button>
+    <button class="btn btn-outline-secondary" onclick="document.getElementById('seafarerCode').value=''; document.getElementById('result').style.display='none';">Clear</button>
+  </div>
+</div>
+
+<div id="result" style="display:none">
+  <div class="card card-profile shadow">
+    <div class="profile-header">
+      <div class="row g-4">
+        <div class="col-md-3 text-center text-md-start">
+          <img id="photo" src="" alt="Photo">
+        </div>
+        <div class="col-md-9">
+          <h4 class="fw-bold text-white mb-3" id="name"></h4>
+          <div class="row g-4">
+            <div class="col-md-6">
+              <p class="label">Marine ID</p>
+              <p class="value" id="marineId"></p>
+              <p class="label">Rank</p>
+              <p class="value" id="rank"></p>
+            </div>
+            <div class="col-md-6">
+              <p class="label">Nationality</p>
+              <p class="value" id="nationality"></p>
+              <p class="label">Status</p>
+              <p><span class="status-active" id="statusLabel">Active</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body px-4" id="certificates" style="display: none;">
+      <h5 class="mb-3">Certificates & Endorsements</h5>
+      <div id="certList"></div>
+    </div>
+  </div>
+</div>
+
+<div class="footer-note" id="footerNote"></div>
+<div class="text-center text-muted py-3 small" style="font-size: 0.85rem;">
+  &copy; 2025 Panama Maritime Authority. All rights reserved.
+</div>
+
+<script src="script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
