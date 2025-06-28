@@ -1,6 +1,6 @@
 
 const sampleData = {
- "502183021":   {name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG", "shipName": "BOMOSTAFA O",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
+  "502183021":   {name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG", "shipName": "BOMOSTAFA O",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "500337500":   {name: "MOHAMED ALI ELSAYD ALI",nationality: "EGYPT", rank: "MASTER",photo: "MOAli.JPG", "shipName": "SCOTLAND BAY",certificates: [ { name: "COC", issue: "14-04-2025", expiry: "13-07-2030" } ]},
   "502183022":   {name: "ALI ABDULKADER",nationality: "SYRIA", rank: "MASTER",photo: "Ali.JPG", "shipName": "BOMOSTAFA O",certificates: [ { name: "GMDSS", issue: "14-04-2025", expiry: "13-07-2025" } ]},
   "5013038501":  {name: "AHMED MOHAMED AMIN",nationality: "EGYPT", rank: "CHIEF MATE",photo: "AMIN.JPG", "shipName": "SCOTLAND BAY",certificates: [ { name: "COC", issue: "22-05-2025", expiry: "21-08-2025" } ]},
@@ -18,7 +18,7 @@ const sampleData = {
   "502102121":   {name: "GHADER MAZHAR KASHOUR",nationality: "SYRIA",rank: "CHIEF MATE",photo: "GHADER.JPG", "shipName": "HAJ MOHAMED",certificates: [{ name: "COC", issue: "11-06-2025", expiry: "10-09-2025" } ] },
   "502102122":   {name: "GHADER MAZHAR KASHOUR",nationality: "SYRIA",rank: "CHIEF MATE",photo: "GHADER.JPG", "shipName": "HAJ MOHAMED",certificates: [{ name: "GMDSS", issue: "11-06-2025", expiry: "10-09-2025" } ] },
   "501303875":   {name: "MOHAMAD JAMAL ABDO",nationality: "SYRIA",rank: "CHIEF MATE",photo: "CH OFF.JPG", "shipName": "BOMOSTAFA O",certificates: [{ name: "COC", issue: "14-04-2025", expiry: "13-07-2025" }]},
-  "1234567":     {"name": "MOHAMED ABDOU NASSAR", "nationality": "EGYPT", "rank": "مساعد طباخ", "photo": "MAN.JPG", "shipName": "SCOTLAND BAY", "certificates": [{ "name": "cook", "issue": "01-06-2025", "expiry": "30-06-2025" }] },
+  
 };
 
 function getCertificateStatus(expiryDate) {
